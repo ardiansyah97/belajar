@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Kuliah\107\Mobile Computing\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d8b8db2b756170b114b25257443620062b8d40d6">
+        <dex dex="F:\Kuliah\107\Mobile Computing\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_5367e104ce243a728a30c815d285b87f82d2aeb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Kuliah\107\Mobile Computing\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="F:\Kuliah\107\Mobile Computing\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5fca0f3bf4052855cc5b0f764c3652605fd9c768\classes.dex" />
+    </item>
+
+</items>
