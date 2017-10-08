@@ -1,5 +1,9 @@
 [
     {
+        "merged": "F:\\Kuliah\\107\\Mobile Computing\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "F:\\Kuliah\\107\\Mobile Computing\\MyApplication\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
         "merged": "F:\\Kuliah\\107\\Mobile Computing\\MyApplication\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\Ardiansyah\\.android\\build-cache\\21edd04b79e6fccb0fed463a47abf03679429c1a\\output\\res\\layout\\abc_action_menu_layout.xml"
     },

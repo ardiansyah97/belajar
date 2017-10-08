@@ -1,4 +1,4 @@
-#Sun Oct 08 15:48:37 ICT 2017
+#Sun Oct 08 17:49:27 ICT 2017
 base.0=F\:\\Kuliah\\107\\Mobile Computing\\MyApplication\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_5fca0f3bf4052855cc5b0f764c3652605fd9c768
 renamed.1=classes.dex
 renamed.0=classes2.dex
